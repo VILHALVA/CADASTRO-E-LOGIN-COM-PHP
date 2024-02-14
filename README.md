@@ -75,16 +75,16 @@ unzip CADASTRO-E-LOGIN-COM-PHP.zip
 3. **Executando o Aplicativo:**
 
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/caminho_para_o_projeto/index.html`.
+   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/FORMULARIO.html`.
    - Use o formulário para se cadastrar com um email e senha ou fazer login com as credenciais cadastradas.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
-* [Curso de MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
+* [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 * [CURSO DE MYSQL COM PHP](https://github.com/VILHALVA/CURSO-DE-MYSQL-COM-PHP)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
