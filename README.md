@@ -50,7 +50,10 @@ unzip CADASTRO-E-LOGIN-COM-PHP.zip
 ### EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
 
-   - Crie um banco de dados MySQL chamado `registro`.
+   - Crie um banco de dados MySQL chamado `registro`:
+   ```sql
+   CREATE DATABASE registro;
+   ```
    - Execute o seguinte comando SQL para criar a tabela `clientes`:
 
      ```sql
