@@ -27,7 +27,7 @@ Este é um exemplo básico e não inclui todas as medidas de segurança necessá
 - Implementar políticas de bloqueio de conta e recuperação de senha.
 - Configurar HTTPS para proteger a transmissão de dados sensíveis.
 
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
    - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-MYSQL) para orientações detalhadas.
 
