@@ -1,7 +1,7 @@
 <?php
 $servidor = "localhost";
-$username = "root";
-$usersenha = "";
+$username = "seu_usuario";
+$usersenha = "sua_senha";
 $database = "registro";
 
 // Criar conexão com o banco de dados
