@@ -29,7 +29,7 @@ Este é um exemplo básico e não inclui todas as medidas de segurança necessá
 
 ## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql`. 
+   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql`.
 
 2. **Configuração do PHP:**
    - Abra o arquivo `FORMULARIO.php` e ajuste as configurações do banco de dados:
@@ -41,9 +41,18 @@ Este é um exemplo básico e não inclui todas as medidas de segurança necessá
      $database = "registro";
      ```
 
-3. **Executando o Aplicativo:**
+3. **Executando o Aplicativo com Apache:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/FORMULARIO.html`.
+   - Acesse o formulário no navegador visitando [http://localhost/CODIGO/FORMULARIO.html](http://localhost/CODIGO/FORMULARIO.html).
+
+4. **Executando o Aplicativo com `php.exe`:**
+   - Alternativamente, você pode iniciar o servidor diretamente no diretório `./CODIGO` com o comando abaixo:
+   ```bash
+   php -S localhost:8080
+   ```
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080/FORMULARIO.html](http://localhost:8080/FORMULARIO.html).
+
+5. **Usando o Aplicativo:**
    - Use o formulário para se cadastrar com um email e senha ou fazer login com as credenciais cadastradas.
 
 ## NÃO SABE?
